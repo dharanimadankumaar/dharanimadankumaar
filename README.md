@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Dharani Selvaraj
+# Hi there! 👋 I'm Dharani
 
 ## Senior Python Backend Engineer
 
